@@ -13,9 +13,9 @@ const navigator = createStackNavigator(
   },
   {
     initialRouteName: "List",
+    title: "App",
     defaultNavigationOptions: {
-      title: "App",
-    },
+  },
   }
 );
 
